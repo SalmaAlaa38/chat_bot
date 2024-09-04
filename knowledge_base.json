@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hey there"
+    },
+    {
+      "question": "what's two plus two?",
+      "answer": "4"
+    },
+    {
+      "question": "what's my name?",
+      "answer": "salma"
+    },
+    {
+      "question": "hey there",
+      "answer": "hello"
+    },
+    {
+      "question": "how old i am?",
+      "answer": "21"
+    },
+    {
+      "question": "how are you?",
+      "answer": "fine thank you!"
+    },
+    {
+      "question": "good bye!!",
+      "answer": "see you later!"
+    }
+  ]
+}
